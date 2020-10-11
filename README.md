@@ -18,3 +18,6 @@
 * Made the navbar toggle hide/show button
 * Also added some content show/hide button
 * and the button icon will also change
+
+### Hosting address:
+* Github: "https://ramirocruz.github.io/ssdass2/"
